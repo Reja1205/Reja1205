@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **HTMT, CSS, JAVA, JAVA SCRIPT**
+- 💬 Ask me about **HTMT, CSS, Bootstrap, JAVA, JAVA SCRIPT**
 
 - 📫 How to reach me **rejaur2017@gmail.com**
 
