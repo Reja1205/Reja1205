@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reja1205" alt="reja1205" /></a> </p>
 
-- 🔭 I’m currently working on **Responsive Front End web Development**
+- 🔭 I am currently working on end to end e-commerce website development
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **HTMT, CSS, Bootstrap, JAVA, JAVA SCRIPT**
+- 💬 Ask me about *Frontend, Backend and databae designe and development
 
-- 📫 How to reach me **rejaur2017@gmail.com**
+- 📫 How to reach me **rejaur.techpro@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
