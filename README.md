@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rejaur Rahman</h1>
-<h3 align="center">MERN Full Stack Web Developer</h3>
+<h1 align="center">Rejaur Rahman</h1>
+<h3 align="center">Entry-Level Full Stack Developer | MERN & Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reja1205&label=Profile%20views&color=0e75b6&style=flat" alt="reja1205" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reja1205" alt="reja1205" /></a> </p>
+### About Me
+Full Stack Developer focused on building scalable web applications using the MERN stack and modern frontend frameworks. I recently completed a full stack bootcamp and have built and deployed end-to-end applications including authentication, payments, admin dashboards, and REST APIs.
 
-- 🔭 I am currently working on end to end e-commerce website development
+- 🔭 Currently building: Production-ready e-commerce platforms
+- 🌱 Currently improving: System design, testing, and performance optimization
+- 💬 Ask me about: React, Next.js, Node.js, Express, MongoDB, REST APIs
+- 📫 Email: **rejaur.techpro@gmail.com**
+- 📍 Location: New York, USA
+- 💼 Open to: Junior / Entry-Level Full Stack Developer roles
 
-- 🌱 I’m currently learning **Java Script**
+---
 
-- 💬 Ask me about *Frontend, Backend and databae designe and development
+### Featured Projects
 
-- 📫 How to reach me **rejaur.techpro@gmail.com**
+**E-Commerce App (Next.js + Express + MongoDB + Docker)**  
+Full-stack production-style e-commerce platform with authentication, cart, checkout, and admin management.  
+🔗 Live: https://ecommerce-app-two-jade.vercel.app  
+📦 Repo: https://github.com/Reja1205/ecommerce-app  
 
-- ⚡ Fun fact **I think I am funny**
+**Online Store**  
+End-to-end store with product management, order processing, and secure backend API.  
+🔗 Live: https://online-store-six-gules.vercel.app  
+📦 Repo: https://github.com/Reja1205/online-store  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reja1205&show_icons=true&locale=en&layout=compact" alt="reja1205" /></p>
+**Frontend:**  
+React, Next.js, Redux, HTML5, CSS3, Bootstrap  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reja1205&show_icons=true&locale=en" alt="reja1205" /></p>
+**Backend:**  
+Node.js, Express.js, REST APIs  
 
+**Databases:**  
+MongoDB, MySQL, PostgreSQL  
 
+**Tools & DevOps:**  
+Git, Docker, AWS, Redis  
+
+**Testing:**  
+Cypress, Selenium  
+
+---
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rejaurr
+- GitHub: https://github.com/Reja1205
