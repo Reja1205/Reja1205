@@ -1,5 +1,5 @@
 <h1 align="center">Rejaur Rahman</h1>
-<h3 align="center">Entry-Level Full Stack Developer | MERN & Next.js</h3>
+<h3 align="center">Full Stack Developer | MERN & Next.js</h3>
 
 ---
 
